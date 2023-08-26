@@ -11,14 +11,12 @@ After open project forlder **Compile**  it by using this command.
 
 ```
 javac ToDoList.java
-
 ```
 
 Now run the project 
 
 ```
 java ToDoList
-
 ```
 
 # Output
